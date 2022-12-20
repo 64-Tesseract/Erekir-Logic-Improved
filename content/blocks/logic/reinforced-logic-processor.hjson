@@ -10,4 +10,4 @@ consumes: {
         amount: 0.04
     }
 }
-research: "erekir-logic-switch-reinforced"
+research: "erekir-logic-reinforced-switch"
