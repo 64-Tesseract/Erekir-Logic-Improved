@@ -2,4 +2,4 @@ name: switch
 type: SwitchBlock
 requirements: [ "beryllium/5", "graphite/5"]
 category: logic
-research: "erekir-logic-reinforced-micro-processor"
+research: "erekir-logic-improved-reinforced-micro-processor"

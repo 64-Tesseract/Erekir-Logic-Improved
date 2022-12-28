@@ -3,4 +3,4 @@ size: 2
 requirements: [ "beryllium/30", "graphite/80", "silicon/80", "phase-fabric/30"]
 memoryCapacity: 512
 category: logic
-research: "erekir-logic-reinforced-memory-cell"
+research: "erekir-logic-improved-reinforced-memory-cell"
