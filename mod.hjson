@@ -1,0 +1,8 @@
+name: "erekir-logic-improved"
+displayName: "Erekir Logic Improved"
+author: "64-Tesseract"
+description: "Adds logic blocks to Erekir. Forked to fix logic link names, not compatible with the original mod."
+version: "1.0"
+minGameVersion: "140.4"
+dependencies: [ ]
+hidden: false
